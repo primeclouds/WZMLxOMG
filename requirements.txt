@@ -41,4 +41,5 @@ tenacity
 tgcrypto
 uvloop
 xattr
+pytz
 yt-dlp
